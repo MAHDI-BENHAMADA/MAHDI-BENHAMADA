@@ -7,7 +7,7 @@ I'm obsessed with mastery. Six years ago, I fell in love with design and code, n
 
 Whether I'm studying software engineering or training in calisthenics, my mindset is the same: **discipline, consistency, and mastery**. That philosophy shapes everything I do, from architecting scalable databases to crafting pixel-perfect UI. 
 
-Oh, and I'm a magician too. 🪄 (Don't worry, no smoke and mirrors in your codebase—just clear strategy and clean code.)
+Oh, and I'm a magician too. 🪄 (Don't worry, no smoke and mirrors in your codebase, just clear strategy and clean code.)
 
 ---
 
