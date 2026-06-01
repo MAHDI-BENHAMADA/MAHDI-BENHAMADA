@@ -5,7 +5,7 @@
 ### About Me
 I'm obsessed with mastery. Six years ago, I fell in love with design and code, not just as skills, but as crafts worth perfecting. Since then, I've built software across the modern tech stack, constantly exploring new tools and better ways to build. I don't just learn things; I dive deep until I truly understand them.
 
-Whether I'm studying software engineering or training calisthenics, my mindset is the same: **discipline, consistency, and mastery**. That philosophy shapes everything I do, from architecting scalable databases to crafting pixel-perfect UI. But I don't just build for screens; I build for minds. I have a deep passion for psychology and actively use it to craft UIs that subconsciously guide the user experience—delivering a rare, deeply intuitive feel you won't easily find everywhere else.
+Whether I'm studying software engineering or training calisthenics, my mindset is the same: **discipline, consistency, and mastery**. That philosophy shapes everything I do, from architecting scalable databases to crafting pixel-perfect UI. But I don't just build for screens; I build for minds. I have a deep passion for psychology and actively use it to craft UIs that subconsciously guide the user experience, delivering a rare, deeply intuitive feel you won't easily find everywhere else.
 
 Oh, and I'm a magician too. 🪄 (Don't worry, no smoke and mirrors in your codebase, just clear strategy and clean code.)
 
