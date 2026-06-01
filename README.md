@@ -13,22 +13,30 @@ Oh, and I'm a magician too. 🪄 (Don't worry, no smoke and mirrors in your code
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Mobile:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-**Backend & Database:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend & Mobile**  
+<img alt="React" src="https://skillicons.dev/icons?i=react" width="40" height="40" />
+<img alt="Flutter" src="https://skillicons.dev/icons?i=flutter" width="40" height="40" />
+<img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" width="40" height="40" />
+<img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwindcss" width="40" height="40" />
 
-**Architecture & Tools:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br />
+
+**Backend & Database**  
+<img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+<img alt="Express" src="https://skillicons.dev/icons?i=express" width="40" height="40" />
+<img alt="Python" src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+<img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
+
+<br />
+
+**Architecture & Tools**  
+<img alt="Git" src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+<img alt="Vite" src="https://skillicons.dev/icons?i=vite" width="40" height="40" />
+<img alt="Figma" src="https://skillicons.dev/icons?i=figma" width="40" height="40" />
+
+</div>
 
 ---
 
