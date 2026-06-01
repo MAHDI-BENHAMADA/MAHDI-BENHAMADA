@@ -3,7 +3,7 @@
 
 
 ### About Me
-I'm obsessed with mastery. Six years ago, I fell in love with design and code—not just as skills, but as crafts worth perfecting. Since then, I've built software across the modern tech stack, constantly exploring new tools and better ways to build. I don't just learn things; I dive deep until I truly understand them.
+I'm obsessed with mastery. Six years ago, I fell in love with design and code, not just as skills, but as crafts worth perfecting. Since then, I've built software across the modern tech stack, constantly exploring new tools and better ways to build. I don't just learn things; I dive deep until I truly understand them.
 
 Whether I'm studying software engineering or training in calisthenics, my mindset is the same: **discipline, consistency, and mastery**. That philosophy shapes everything I do, from architecting scalable databases to crafting pixel-perfect UI. 
 
