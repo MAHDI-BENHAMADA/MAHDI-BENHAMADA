@@ -1,17 +1,19 @@
 
-# Hi there, I'm Mahdi
+# Hi, I'm Mahdi
 
+## About Me
 
-### About Me
-I'm obsessed with mastery. Six years ago, I fell in love with design and code, not just as skills, but as crafts worth perfecting. Since then, I've built software across the modern tech stack, constantly exploring new tools and better ways to build. I don't just learn things; I dive deep until I truly understand them.
+I'm driven by mastery. Six years ago, I fell in love with design and code—not just as skills, but as crafts worth perfecting. Since then, I've built software across the modern tech stack, constantly exploring new tools and better ways to create.
 
-Whether I'm studying software engineering or training calisthenics, my mindset is the same: **discipline, consistency, and mastery**. That philosophy shapes everything I do, from architecting scalable databases to crafting pixel-perfect UI. But I don't just build for screens; I build for minds. I have a deep passion for psychology and actively use it to craft UIs that subconsciously guide the user experience, delivering a rare, deeply intuitive feel you won't easily find everywhere else.
+Whether I'm studying software engineering or training calisthenics, my mindset stays the same: **discipline, consistency, and mastery**. I apply that philosophy to everything I build, from scalable databases to polished, accessible interfaces.
 
-Oh, and I'm a magician too. 🪄 (Don't worry, no smoke and mirrors in your codebase, just clear strategy and clean code.)
+I also bring a deep interest in psychology to product design, using it to create experiences that feel clear, natural, and intuitive.
+
+Oh, and I'm a magician too. 🪄 No smoke and mirrors in the codebase—just clear strategy and clean code.
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 <div>
 
@@ -47,8 +49,4 @@ Oh, and I'm a magician too. 🪄 (Don't worry, no smoke and mirrors in your code
 </table>
 
 </div>
-
----
-
-#
 
