@@ -47,6 +47,7 @@ Oh, and I'm a magician too. No smoke and mirrors in the codebase ;)
       <img alt="Git" src="https://skillicons.dev/icons?i=git" width="40" height="40" />
       <img alt="Vite" src="https://skillicons.dev/icons?i=vite" width="40" height="40" />
       <img alt="Figma" src="https://skillicons.dev/icons?i=figma" width="40" height="40" />
+      <img alt="Photoshop" src="https://skillicons.dev/icons?i=ps" width="40" height="40" />
     </td>
   </tr>
   <tr>
