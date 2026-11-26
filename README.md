@@ -24,6 +24,7 @@ Oh, and I'm a magician too. No smoke and mirrors in the codebase ;)
       <img alt="React" src="https://skillicons.dev/icons?i=react" width="40" height="40" />
       <img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" />
       <img alt="Flutter" src="https://skillicons.dev/icons?i=flutter" width="40" height="40" />
+      <img alt="Dart" src="https://skillicons.dev/icons?i=dart" width="40" height="40" />
       <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" width="40" height="40" />
       <img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
     </td>
@@ -34,6 +35,7 @@ Oh, and I'm a magician too. No smoke and mirrors in the codebase ;)
       <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
       <img alt="Express" src="https://skillicons.dev/icons?i=express" width="40" height="40" />
       <img alt="Python" src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+      <img alt="Flask" src="https://skillicons.dev/icons?i=flask" width="40" height="40" />
       <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
       <img alt="Drizzle ORM" src="https://cdn.simpleicons.org/drizzle" width="40" height="40" />
       <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
@@ -45,6 +47,11 @@ Oh, and I'm a magician too. No smoke and mirrors in the codebase ;)
     <td align="left" valign="middle" style="padding-right: 16px;"><strong>Architecture & Tools</strong></td>
     <td align="left">
       <img alt="Git" src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+      <img alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" />
+      <img alt="Docker" src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
+      <img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
+      <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="40" height="40" />
+      <img alt="pnpm" src="https://skillicons.dev/icons?i=pnpm" width="40" height="40" />
       <img alt="Vite" src="https://skillicons.dev/icons?i=vite" width="40" height="40" />
       <img alt="Figma" src="https://skillicons.dev/icons?i=figma" width="40" height="40" />
       <img alt="Photoshop" src="https://skillicons.dev/icons?i=ps" width="40" height="40" />
